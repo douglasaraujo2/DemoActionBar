@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DemoActionBar</string>
+    <string name="menu_search">Pesquisar</string>
+    <string name="menu_alterar">Alterar</string>
+    <string name="menu_alterar2">Alterar2</string>
+    <string name="menu_alterar3">Alterar3</string>
+</resources>
